@@ -1,1 +1,1 @@
-# Final_Project
+(SoldOutItemsManager) The final project is a Java program designed to manage a list of sold out items. It uses an ArrayList for dynamic storage of sold out items and a fixed size array to demonstrate array handling.# Final_Project
